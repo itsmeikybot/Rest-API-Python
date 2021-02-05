@@ -1,5 +1,5 @@
 # Rest-API-Python
-- Menggunakan Flas Sebagai Servernya
+- Menggunakan Flask Sebagai Servernya
 ## Website
 - [Home Page](https://www.apimau.ga)
 
