@@ -1,7 +1,9 @@
 # Rest-API-Python
-- Menggunakan Flask Sebagai Servernya
+-
+Menggunakan Flask Sebagai Servernya
+-
 # Website
-- [Home Page](https://www.apimau.ga)
+[Home Page](https://www.apimau.ga)
 
 # Daftar Fitur
 | Fitur | Supported          |
