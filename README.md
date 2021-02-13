@@ -18,4 +18,5 @@
 | Mencari Anime Di Kusonime Berdasarkan Keyword | :white_check_mark: |
 | Menampilkan Informasi Gempa Dari BMKG | :white_check_mark: |
 
+# License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmbahagus%2FRest-API-Python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmbahagus%2FRest-API-Python?ref=badge_large)
