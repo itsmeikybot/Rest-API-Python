@@ -321,10 +321,10 @@ def pinterest():
 
 @app.route('/', methods=['GET','POST'])
 def index():
-	return redirect("https://www.apimau.ga", code=302)
+	return redirect("https://shizukaa.xyz", code=302)
 
 @app.errorhandler(404)
 def error(e):
-	return redirect("https://www.apimau.ga", code=302)
+	return redirect("https://shizukaa.xyz", code=302)
 if __name__ == '__main__':
 	app.run(host='0.0.0.0', port=int(os.environ.get('PORT','3000')),debug=True)
